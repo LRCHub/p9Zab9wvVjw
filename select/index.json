@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Daybreak Age",
+  "base_artist": "SHINY COLORS",
+  "createdAt": "2026-02-17T02:11:03.135964Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daybreak Age",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/01_Daybreak_Age_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daybreak Age",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Daybreak_Age_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Daybreak Age -28 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_02_Daybreak_Age_-28_colors-_シャイニーカラーズ.txt"
+    }
+  ]
+}
